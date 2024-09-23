@@ -16,5 +16,6 @@ Please feel free to contact me if you have any questions.
 Useful links:
 - Stanage HPC documentation: https://docs.hpc.shef.ac.uk/en/latest/stanage/index.html#gsc.tab=0
 - Sheffield RSE: https://rse.shef.ac.uk/
+- Julia: https://julialang.org/
 - Julia CUDA: https://cuda.juliagpu.org/stable/
 - Julia performance tips: https://docs.julialang.org/en/v1/manual/performance-tips/
