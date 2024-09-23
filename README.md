@@ -2,7 +2,7 @@
 
 ### GitHub repository for the simulation code and time series data referenced in my PhD thesis 
 
-The **'Simulations'** folder contains the Julia code I used to simulate spinodal decomposition and dissolution (see comment on line ...). 
+The **'Simulations'** folder contains the Julia code I used to simulate spinodal decomposition and dissolution (see comment on line 288). 
 The code uses parallel processing where possible and calculates the powerspectrum of the microstructure at regular intervals. 
 I ran the code on Stanage, the University of Sheffield's high performance computer. I used shell scripts to pass parameter values and implement repeat simulations on different nodes. 
 
