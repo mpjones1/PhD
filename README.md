@@ -2,9 +2,9 @@
 
 ### GitHub repository for the simulation code and time series data referenced in my PhD thesis 
 
-The 'Simulations' folder contains the Julia code I used to simulate spinodal decomposition and dissolution (see comment on line 288). The code uses parallel processing where possible and calculates the power spectrum of the microstructure at regular intervals. I ran the code on Stanage, the University of Sheffield's high-performance computer. I used shell scripts to pass parameter values and implement repeat simulations on different nodes.
+The **'Simulations'** folder contains the Julia code I used to simulate spinodal decomposition and dissolution (see comment on line 288). The code uses parallel processing where possible and calculates the power spectrum of the microstructure at regular intervals. I ran the code on Stanage, the University of Sheffield's high-performance computer. I used shell scripts to pass parameter values and implement repeat simulations on different nodes.
 
-The 'Data' folder contains the time series of power spectrum snapshots from which I generated the synthetic structure factor snapshots. Each text file contains 2001 power spectrum snapshots (saved row-wise). The number of columns corresponds to the number of k-values, which depends on the spatial discretisation, dx, used in the simulations.
+The **'Data'** folder contains the time series of power spectrum snapshots from which I generated the synthetic structure factor snapshots. Each text file contains 2001 power spectrum snapshots (saved row-wise). The number of columns corresponds to the number of k-values, which depends on the spatial discretisation, dx, used in the simulations.
 
 Details regarding parameter values and the model on which the simulations are based can be found in my thesis and the references within (a link will be provided in due course).
 
